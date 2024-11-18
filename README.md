@@ -36,8 +36,9 @@ Create a _[customer performance report](https://github.com/Deepthi3245/Excel-Sal
   - Realign strategies with sales objectives.
 
 ## **Profit & Loss (P&L) Statements**
-** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Deepthi3245/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Deepthi3245/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Month.pdf)_
+Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Deepthi3245/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Deepthi3245/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Month.pdf)_
 Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Deepthi3245/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Market.pdf)_
+
 ### **By Fiscal Year**
 - **Objective:**
   - Provide yearly financial summaries, highlighting trends in sales, costs, and margins.
